@@ -8,5 +8,3 @@ I'm currently learning programming, Git, and GitHub while building projects to i
 - 🌱 Learning software development
 - 💻 Building personal projects
 - 🚀 Expanding my programming skills one project at a time
-
-> *"Stay curious. Keep building."*
