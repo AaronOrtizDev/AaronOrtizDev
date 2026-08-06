@@ -21,12 +21,6 @@
 - JavaScript
 - Linux (Fedora KDE)
 
-## Current Setup
-- 💻 Lenovo ThinkPad T480
-- 🐧 Fedora KDE
-- 💾 1 TB SSD
-- 🧠 16 GB RAM
-
 ## 2026 Goals
 - Build 10+ projects
 - Learn Python well
