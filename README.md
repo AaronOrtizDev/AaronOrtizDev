@@ -1,29 +1,12 @@
-# Hi, I'm Aaron! 👋
+# Hi, I'm Aaron 👋
 
-## About Me
-- 🎓 High school student
-- 💻 Aspiring Software Engineer
-- 🐧 Fedora KDE Linux user
-- 📚 Currently learning Python, Git, GitHub, and Web Development
+🎓 High school student interested in software engineering and technology.
 
-## Current Goals
-- Learn Python
-- Build projects with GitHub
-- Contribute to open source
-- Create a strong software engineering portfolio
+I'm currently learning programming, Git, and GitHub while building projects to improve my skills. My goal is to create useful software, contribute to open source, and continue growing as a developer.
 
-## Technologies I'm Learning
-- Python
-- Git
-- GitHub
-- HTML
-- CSS
-- JavaScript
-- Linux (Fedora KDE)
+## Currently
+- 🌱 Learning software development
+- 💻 Building personal projects
+- 🚀 Expanding my programming skills one project at a time
 
-## 2026 Goals
-- Build 10+ projects
-- Learn Python well
-- Learn JavaScript
-- Contribute to open source
-- Create a personal portfolio website
+> *"Stay curious. Keep building."*
